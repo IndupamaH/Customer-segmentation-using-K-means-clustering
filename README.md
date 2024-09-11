@@ -15,7 +15,8 @@ Within the banking institution,
 **Customer Service Teams** can provide more personalized service and support, improving customer satisfaction and loyalty.
 
 # Data set 
-* The data set is from Kaggle which consists of 6 month sof bank data of its customers. Data Source: https://www.kaggle.com/arjunbhasin2013/ccdata The data set contains features like Bank balance, purchases, payments, and credit limit, etc. 
+* The data set is from Kaggle which consists of 6 month sof bank data of its customers. Data Source: https://www.kaggle.com/arjunbhasin2013/ccdata
+* The data set contains features like Bank balance, purchases, payments, and credit limit, etc. 
 
 * **Data Cleaning**
 There are some missing values in the minimum payments column and the values were replaced with the mean of the minimum payments values. There were no duplicate entries and the customer_id column was removed before analysis. 
